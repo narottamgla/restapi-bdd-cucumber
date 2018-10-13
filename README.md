@@ -1,4 +1,4 @@
-# "Selenium" BDD with "Cucumber" and "Serenity"
+# "RestAPI Automatiion" BDD with "Cucumber" and "Serenity"
 * This project is an example of how to setup API tests using BDD approach with Serenity framework
 
 ## Project Description:
@@ -12,7 +12,7 @@
 * Install "natural plugin" using eclipse marketplace 
 
 ## Run tests:
-* Navigate to project root
+* Navigate to project root and Update com.googleapi.utils.Constants .
 * `mvn clean verify`
 
 ## View HTML Report
